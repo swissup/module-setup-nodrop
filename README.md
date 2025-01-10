@@ -9,7 +9,7 @@ you to disable some periodically, install new ones, and so on with ease.
 ## Installation
 
 ```bash
-composer require --dev swissup/module-setup-nodrop
+composer require swissup/module-setup-nodrop
 bin/magento module:enable Swissup_SetupNodrop
 ```
 
